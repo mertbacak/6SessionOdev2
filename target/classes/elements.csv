@@ -1,0 +1,6 @@
+element1,element2
+(//*[@class='popular-links vitrin-list clearfix']/li/a)[1],(//div[@id='search_cats']//li//h2)[last()]
+(//*[@class='popular-links vitrin-list clearfix']/li/a)[2],(//div[@id='search_cats']//li//h2)[last()]
+(//*[@class='popular-links vitrin-list clearfix']/li/a)[3],(//div[@id='search_cats']//li//h2)[last()]
+(//*[@class='popular-links vitrin-list clearfix']/li/a)[4],(//div[@id='search_cats']//li//h2)[last()]
+(//*[@class='popular-links vitrin-list clearfix']/li/a)[4],(//div[@id='search_cats']//ul//div//a//h2)[last()]
